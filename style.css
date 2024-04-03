@@ -93,4 +93,24 @@ input[disabled] {
     .container {
         width: 80%;
     }
+
+    form {
+        width: 80%;
+    }
+    input[type="text"] {
+        width: 80%;
+        font-size: smaller;
+    }
+
+    input[type="range"] {
+        width: 80%;
+    }
+    label {
+        width: 80%;
+    }
+
+    p, h1, div {
+        font-size: smaller; 
+        margin-bottom: 0.5em;
+    }
 }
